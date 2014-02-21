@@ -1,11 +1,5 @@
 PyroClock
 =========
-
-This is going to be the repo for a sunrise alamr clock I'm building.
-
-
-PyroClock
-=========
 This is going to be the repo for a sunrise alarm clock I'm building.
 
 TODO: Pretty much everything
